@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-dir-to-index",
+  "version": "0.0.1",
+  "description": "Url ends with dir and protocol file://, append with index.html.",
+  "cordova": {
+    "id": "cordova-plugin-dir-to-index",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosseamin/cordova-plugin-dir-to-index.git"
+  },
+  "keywords": [
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": "^8.0.0"
+    }
+  ],
+  "author": "Hossein",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/hosseamin/cordova-plugin-dir-to-index/issues"
+  },
+  "homepage": "https://github.com/hosseamin/cordova-plugin-dir-to-index/"
+}
